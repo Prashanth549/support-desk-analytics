@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+env/
+
+# Database files
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated reports (keep samples only)
+reports/*.png
+!reports/sample_*.png
